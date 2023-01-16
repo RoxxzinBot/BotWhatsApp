@@ -1,0 +1,27 @@
+{
+    "ownerNumber": ["6283103824111@s.whatsapp.net","6283103824111@s.whatsapp.net"],
+    "ownerName": "WhatsApp Bot",
+    "instagram" : "-",
+    "botName": "WhatsApp Bot",
+    "footer": "api.zeeoneofc.xyz",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "apikey lu taro sini",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
